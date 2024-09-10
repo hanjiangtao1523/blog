@@ -35,17 +35,17 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Я студент, и мое будущее направление исследований — применение искусственного интеллекта и игр.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Я применяю ряд качественных и количественных методов для всестороннего исследования роли науки и технологий в экономике.
         
-        Please reach out to collaborate 😃
+        Пожалуйста, свяжитесь с нами для сотрудничества 😃
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Учебный план
       filters:
         folders:
           - publication
